@@ -9,5 +9,4 @@ public class WebServiceMicroblogovApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WebServiceMicroblogovApplication.class, args);
 	}
-
 }
